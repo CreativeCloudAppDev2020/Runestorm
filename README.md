@@ -10,4 +10,5 @@ Understanding how "Runestorm" works will be easier for you if you have heard of 
 
 ### Source Code
 
-Java code to create this game is available in
+Java code to create this game is available in https://github.com/DtjiSoftwareDeveloper/Runestorm/tree/main/src. It is currently under
+development.
